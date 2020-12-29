@@ -1361,7 +1361,7 @@ export class App extends Component {
                           <div className="wpb_wrapper">
                             <div className="team-member">
                               <div className="team-photo">
-                                <img src="img/team_b.jpeg" alt="" />
+                                <img src="img/team_c.jpeg" alt="" />
                                 <span className="expand-trigger content-popup"></span>
                               </div>
                               <div className="team-info">
@@ -1408,7 +1408,7 @@ export class App extends Component {
                           <div className="wpb_wrapper">
                             <div className="team-member">
                               <div className="team-photo">
-                                <img src="img/team_c.jpeg" alt="" />
+                                <img src="img/team_b.jpeg" alt="" />
                                 <span className="expand-trigger content-popup"></span>
                               </div>
                               <div className="team-info">
