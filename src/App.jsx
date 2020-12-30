@@ -901,7 +901,7 @@ export class App extends Component {
                                   data-delay="0"
                                 >
                                   <h6>Start</h6>
-                                  <p>NOV 24th 15:00 UTC</p>
+                                  <p>10 th Jan</p>
                                 </div>
                               </div>
                               <div className="col-sm-6">
@@ -921,7 +921,7 @@ export class App extends Component {
                                   data-delay="0"
                                 >
                                   <h6>End</h6>
-                                  <p>Dec 2nd  16:00 UTC</p>
+                                  <p>20th Jan</p>
                                 </div>
                               </div>
                               <div className="col-sm-6">
