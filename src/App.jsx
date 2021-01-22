@@ -901,7 +901,7 @@ export class App extends Component {
                                   data-delay="0"
                                 >
                                   <h6>Start</h6>
-                                  <p>10 th Jan</p>
+                                  <p>To Be Announced</p>
                                 </div>
                               </div>
                               <div className="col-sm-6">
@@ -911,7 +911,7 @@ export class App extends Component {
                                   data-delay="0"
                                 >
                                   <h6>Number of tokens for sale</h6>
-                                  <p>1,069,318 ELLA</p>
+                                  <p>2 Million ELLA</p>
                                 </div>
                               </div>
                               <div className="col-sm-6">
@@ -921,7 +921,7 @@ export class App extends Component {
                                   data-delay="0"
                                 >
                                   <h6>End</h6>
-                                  <p>20th Jan</p>
+                                  <p>To Be Announced</p>
                                 </div>
                               </div>
                               <div className="col-sm-6">
@@ -3184,7 +3184,16 @@ export class App extends Component {
                                     info@Ellaswap.com
                                   </li>
                                   <li>
-                                    <a href="https://t.me/ella_finance">
+                                    <a href="https://t.me/ellaswap">
+                                      <em className="fa fa-paper-plane">
+                                        tele
+                                      </em>
+                                      Join&nbsp;
+                                    </a>
+                                    us on Telegram
+                                  </li>
+                                  <li>
+                                    <a href="https://t.me/ellaswapann">
                                       <em className="fa fa-paper-plane">
                                         tele
                                       </em>
